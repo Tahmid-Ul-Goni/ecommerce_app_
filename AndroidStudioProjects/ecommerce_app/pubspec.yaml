@@ -79,6 +79,11 @@ flutter:
     - assets/AssetManifest.json
     - assets/FontManifest.json
     - assets/NOTICES
+    - assets/assets/AssetManifest.bin
+    - assets/assets/AssetManifest.bin.json
+    - assets/assets/AssetManifest.json
+    - assets/assets/FontManifest.json
+    - assets/assets/NOTICES
     - assets/files/
     - assets/icons/
     - assets/images/

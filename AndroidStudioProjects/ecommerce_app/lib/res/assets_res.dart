@@ -10,19 +10,6 @@ class AssetsRes {
   static const String PROJECT_VERSION = '1.0.0+1';
   static const String ASSETMANIFEST = 'assets/AssetManifest.bin';
 
-  static const String
-
-  ASSETMANIFEST.BIN
-
-  =
-
-  '
-
-  assets/AssetManifest.bin.json
-
-  ';
-
-  static const String ASSETMANIFEST = 'assets/AssetManifest.json';
-  static const String FONTMANIFEST = 'assets/FontManifest.json';
-  static const String NOTICES = 'assets/NOTICES';
+  static const String FONTMANIFEST = 'assets/assets/FontManifest.json';
+  static const String NOTICES = 'assets/assets/NOTICES';
 }
