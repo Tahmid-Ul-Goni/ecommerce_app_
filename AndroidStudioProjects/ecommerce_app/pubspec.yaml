@@ -74,6 +74,11 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
+    - assets/AssetManifest.bin
+    - assets/AssetManifest.bin.json
+    - assets/AssetManifest.json
+    - assets/FontManifest.json
+    - assets/NOTICES
     - assets/files/
     - assets/icons/
     - assets/images/
